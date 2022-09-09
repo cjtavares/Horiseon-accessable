@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Sets background color for the body */
 body {
     background-color: #d9dcd6;
 }
@@ -25,7 +25,6 @@ header h1 .seo {
 }
 
 nav {    
-    display: inline-block;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
